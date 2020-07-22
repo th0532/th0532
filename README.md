@@ -13,10 +13,12 @@
 ## SKills
 ![badge](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
 ![badge](https://img.shields.io/badge/-React-blue?logo=React)
+![badge](https://img.shields.io/badge/-Jquery-steelblue?logo=Jquery)
 
 ![badge](https://img.shields.io/badge/-Node%20js-brightgreen?logo=Node.js)
 ![badge](https://img.shields.io/badge/-PHP-purple?logo=PHP)
 ![badge](https://img.shields.io/badge/-Linux-yellow?logo=Linux)
+![badge](https://img.shields.io/badge/-Mysql-lightgray?logo=Mysql)
 ![badge](https://img.shields.io/badge/-Github-black?logo=GitHub)
 
 
