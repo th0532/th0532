@@ -8,7 +8,7 @@
   다음 카카오, 현대엠앤소프트, 롯데 이커머스 등 기상 API 제공  
   (울산항만공사, 그라우이앤씨) 해양 기상 실황 웹페이지 개발  
   경기도시공사 현장재해보고서 페이지 개발  
-  베어크리크 기상실황 페이지 개발  
+  베어크리크 기상실황 페이지 개발   
   
 ## SKills
 ![badge](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
